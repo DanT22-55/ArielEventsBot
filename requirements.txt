@@ -1,0 +1,7 @@
+python-telegram-bot==20.3
+google-auth-oauthlib==1.2.0
+google-auth-httplib2==0.2.0
+google-api-python-client==2.100.0
+gspread==6.1.0
+reportlab==4.0.9
+google-calendar==0.2.0
